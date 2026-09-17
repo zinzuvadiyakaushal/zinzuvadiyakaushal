@@ -103,11 +103,9 @@ A Python-based project exploring conversational application development.
 
 ---
 
-## 📈 GitHub
+## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zinzuvadiyakaushal&show_icons=true&hide_border=true&rank_icon=github" alt="Kaushal's GitHub Stats">
-</p>
+Building consistently through meaningful projects, experimentation, and hands-on development.
 
 ---
 
