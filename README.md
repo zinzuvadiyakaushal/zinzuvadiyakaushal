@@ -1,33 +1,96 @@
 <!-- ========================================================= -->
 
-<!--                    KAUSHAL ZINZUVADIYA                    -->
-
-<!--                 GitHub Profile README                     -->
+<!--                         HERO                               -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img
-src="./assets/hero/kaushal-profile-hero.webp"
-alt="Kaushal Zinzuvadiya - Full-Stack Developer and MCA Student"
-width="100%"
-
-
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,45:2563EB,100:06B6D4&height=220&section=header&text=KAUSHAL%20ZINZUVADIYA&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20MCA%20%40%20MIT-WPU&descAlignY=61&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=4F9DFF&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;Python+%7C+Java+Developer;React+%7C+Django+%7C+REST+APIs;AI%2FML+Enthusiast;Building+Practical+Software+Projects" alt="Typing SVG"/>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/kaushal-zinzuvadiya-081728376/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+ 
+
+<a href="https://github.com/zinzuvadiyakaushal">
+<img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,django,nodejs,mysql,mongodb,supabase&perline=10"/>
+
+</div>
+
+<!-- ========================================================= -->
+
+<!--                       QUICK INTRO                          -->
+
+<!-- ========================================================= -->
+
+<div align="center">
+
+👋 Hey, I'm Kaushal
+
+Full-Stack Developer · Python & Java · React & Django · AI/ML Enthusiast
+
+Building practical software. Learning by building. Improving by debugging.
+
+</div>
+
 🧑‍💻 About Me
+
+<table width="100%">
+<tr>
+
+<td width="62%" valign="top">
 
 I'm Kaushal Zinzuvadiya, an MCA student at MIT World Peace University (MIT-WPU), Pune, currently pursuing my MCA from 2025–2027.
 
 I'm interested in building practical software using Python, Java, JavaScript, TypeScript, React, Django, REST APIs, and databases.
 
-I enjoy working across the development process — from designing interfaces and backend logic to working with APIs and databases, testing application behaviour, debugging problems, and improving applications.
+I enjoy working across the development process — from designing interfaces and backend logic to working with APIs, databases, testing, debugging, and improving applications.
 
 I'm also exploring AI/ML and intelligent software applications while strengthening my Computer Science fundamentals.
+
+</td>
+
+<td width="38%" valign="top">
+
+🎓 Education
+
+MCA @ MIT-WPU
+2025–2027
+
+💻 Focus
+
+Full-Stack Development
+Backend Development
+Python & Java
+
+🧠 Foundations
+
+DSA
+OOP
+DBMS
+Problem Solving
+
+🤖 Exploring
+
+AI / ML
+
+</td>
+
+</tr>
+</table>
 
 ⚡ What I Build
 
@@ -97,31 +160,31 @@ Exploration
 
 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" alt="Java Python JavaScript TypeScript">
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript"/>
 
 <br><br>
 
 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" alt="HTML CSS React Bootstrap">
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap"/>
 
 <br><br>
 
 ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=django,nodejs" alt="Django Node.js">
+<img src="https://skillicons.dev/icons?i=django,nodejs"/>
 
 <br><br>
 
 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,supabase" alt="MySQL MongoDB SQLite Supabase">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,supabase"/>
 
 <br><br>
 
 🔧 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code">
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 <br><br>
 
@@ -168,14 +231,14 @@ REST API Bootstrap HTML CSS
 <br>
 
 <a href="https://github.com/zinzuvadiyakaushal/smart-expense-splitter">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="View Smart Expense Splitter">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="32%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=python,django,sqlite,bootstrap" alt="Smart Expense Splitter stack">
+<img src="https://skillicons.dev/icons?i=python,django,sqlite,bootstrap"/>
 
 <br><br>
 
@@ -225,10 +288,8 @@ Technology
 
 Python Machine Learning Streamlit
 
-<br>
-
 <a href="https://github.com/zinzuvadiyakaushal/MIT_CAR_APP">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="MIT Car App repository">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -247,29 +308,35 @@ Technology
 
 Python NLP
 
-<br>
-
 <a href="https://github.com/zinzuvadiyakaushal/ChatMCA">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="ChatMCA repository">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%" align="center" valign="middle">
 
-💡 IDEA
+💡
+
+IDEA
 
 ↓
 
-💻 BUILD
+💻
+
+BUILD
 
 ↓
 
-🐛 DEBUG
+🐛
+
+DEBUG
 
 ↓
 
-🚀 IMPROVE
+🚀
+
+IMPROVE
 
 </td>
 
@@ -315,52 +382,19 @@ Focused on practical hostel-related workflows, application development, database
 <table width="100%">
 <tr>
 
-<td align="center">
-💡<br>
-<b>IDEA</b>
-</td>
-
+<td align="center">💡<br><b>IDEA</b></td>
 <td align="center">→</td>
-
-<td align="center">
-🔍<br>
-<b>UNDERSTAND</b>
-</td>
-
+<td align="center">🔍<br><b>UNDERSTAND</b></td>
 <td align="center">→</td>
-
-<td align="center">
-🏗️<br>
-<b>DESIGN</b>
-</td>
-
+<td align="center">🏗️<br><b>DESIGN</b></td>
 <td align="center">→</td>
-
-<td align="center">
-💻<br>
-<b>BUILD</b>
-</td>
-
+<td align="center">💻<br><b>BUILD</b></td>
 <td align="center">→</td>
-
-<td align="center">
-🧪<br>
-<b>TEST</b>
-</td>
-
+<td align="center">🧪<br><b>TEST</b></td>
 <td align="center">→</td>
-
-<td align="center">
-🐛<br>
-<b>DEBUG</b>
-</td>
-
+<td align="center">🐛<br><b>DEBUG</b></td>
 <td align="center">→</td>
-
-<td align="center">
-🚀<br>
-<b>IMPROVE</b>
-</td>
+<td align="center">🚀<br><b>IMPROVE</b></td>
 
 </tr>
 </table>
@@ -412,55 +446,11 @@ Build → Test → Debug → Learn → Improve
 <table width="100%">
 <tr>
 
-<td align="center" width="20%">
-
-🌐
-
-WEB
-
-Advanced Web Architecture
-
-</td>
-
-<td align="center" width="20%">
-
-⚙️
-
-BACKEND
-
-REST APIs & Services
-
-</td>
-
-<td align="center" width="20%">
-
-🧠
-
-DSA
-
-Problem Solving
-
-</td>
-
-<td align="center" width="20%">
-
-🤖
-
-AI / ML
-
-Intelligent Applications
-
-</td>
-
-<td align="center" width="20%">
-
-🏗️
-
-ENGINEERING
-
-Best Practices
-
-</td>
+<td align="center" width="20%">🌐<br><b>WEB</b><br>Advanced Web Architecture</td>
+<td align="center" width="20%">⚙️<br><b>BACKEND</b><br>REST APIs & Services</td>
+<td align="center" width="20%">🧠<br><b>DSA</b><br>Problem Solving</td>
+<td align="center" width="20%">🤖<br><b>AI / ML</b><br>Intelligent Applications</td>
+<td align="center" width="20%">🏗️<br><b>ENGINEERING</b><br>Best Practices</td>
 
 </tr>
 </table>
@@ -490,33 +480,44 @@ def write_code():
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=zinzuvadiyakaushal&show_icons=true&theme=tokyonight&hide_border=true"
-width="48%"
-alt="Kaushal's GitHub Statistics"
+<table width="100%">
+<tr>
 
+<td width="50%" align="center" valign="top">
 
+<a href="https://github.com/zinzuvadiyakaushal">
 
-<img
-src="https://streak-stats.demolab.com/?user=zinzuvadiyakaushal&theme=tokyonight&hide_border=true"
-width="48%"
-alt="Kaushal's GitHub Streak"
+<img src="https://github-readme-stats.vercel.app/api?username=zinzuvadiyakaushal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="100%" alt="Kaushal's GitHub Statistics"/>
 
+</a>
 
+</td>
 
-<br><br>
+<td width="50%" align="center" valign="top">
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinzuvadiyakaushal&layout=compact&theme=tokyonight&hide_border=true"
-width="45%"
-alt="Kaushal's Top Languages"
+<a href="https://github.com/zinzuvadiyakaushal">
 
+<img src="https://streak-stats.demolab.com/?user=zinzuvadiyakaushal&theme=tokyonight&hide_border=true" width="100%" alt="Kaushal's GitHub Streak"/>
 
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<a href="https://github.com/zinzuvadiyakaushal">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinzuvadiyakaushal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" alt="Kaushal's Top Languages"/>
+
+</a>
 
 <br><br>
 
 <a href="https://github.com/zinzuvadiyakaushal">
-<img src="https://img.shields.io/badge/VIEW%20GITHUB%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Profile">
+<img src="https://img.shields.io/badge/VIEW%20GITHUB%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -525,9 +526,71 @@ alt="Kaushal's Top Languages"
 
 <div align="center">
 
-Full-Stack Development · Backend & APIs · Python & Java · DSA & Problem Solving · AI / ML
+<table width="90%">
+<tr>
 
-<br><br>
+<td align="center" width="20%">
+
+🌐
+
+FULL-STACK
+
+Building
+Web Applications
+
+</td>
+
+<td align="center" width="20%">
+
+⚙️
+
+BACKEND
+
+Python
+Java
+REST APIs
+
+</td>
+
+<td align="center" width="20%">
+
+🗄️
+
+DATABASES
+
+SQL
+NoSQL
+Backend Data
+
+</td>
+
+<td align="center" width="20%">
+
+🧠
+
+PROBLEM SOLVING
+
+DSA
+OOP
+DBMS
+
+</td>
+
+<td align="center" width="20%">
+
+🤖
+
+AI / ML
+
+Exploring
+Intelligent Apps
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 Learn → Build → Test → Debug → Improve
 
@@ -542,13 +605,13 @@ I'm always open to connecting with developers, students, recruiters, and people 
 <br><br>
 
 <a href="https://github.com/zinzuvadiyakaushal">
-<img src="https://img.shields.io/badge/GitHub-zinzuvadiyakaushal-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-zinzuvadiyakaushal-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
   
 
 <a href="https://www.linkedin.com/in/kaushal-zinzuvadiya-081728376/">
-<img src="https://img.shields.io/badge/LinkedIn-Kaushal%20Zinzuvadiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Kaushal%20Zinzuvadiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
@@ -563,6 +626,6 @@ I'm always open to connecting with developers, students, recruiters, and people 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,45:2563EB,100:06B6D4&height=120&section=footer" width="100%" alt="Footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,45:2563EB,100:06B6D4&height=120&section=footer" width="100%"/>
 
 </div>
