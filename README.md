@@ -17,38 +17,41 @@
 
 ## 👨‍💻 About Me
 
-I'm an MCA student at **MIT World Peace University, Pune**, interested in building practical software and solving real-world problems through technology.
+I'm an MCA student at **MIT World Peace University, Pune**, focused on building practical software and strengthening my skills through hands-on development.
 
 - 🎓 Pursuing **Master of Computer Applications (MCA)** at MIT-WPU
-- 💻 Building full-stack applications and backend systems
-- ☕ Working with **Java, Python, JavaScript and TypeScript**
-- 🌐 Exploring **React, Django, Node.js and REST APIs**
-- 🧠 Interested in **AI/ML and emerging technologies**
-- 🛠️ Learning through hands-on projects, experimentation and continuous improvement
+- 💻 Interested in **Full-Stack Development & Software Engineering**
+- 🐍 Working with **Python, Django and REST APIs**
+- ☕ Working with **Java and core software development concepts**
+- ⚛️ Building applications with **React and TypeScript**
+- 🗄️ Working with **MySQL, MongoDB, SQLite and Supabase**
+- 🤖 Exploring **AI/ML and intelligent software applications**
+- 🧠 Practicing **Data Structures, Algorithms and problem solving**
+- 🚀 Learning through projects, experimentation and continuous development
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages**
+### 💻 Languages
 
 `Java` · `Python` · `JavaScript` · `TypeScript`
 
-**Frontend**
+### 🎨 Frontend
 
 `HTML` · `CSS` · `React` · `Bootstrap`
 
-**Backend**
+### ⚙️ Backend
 
 `Django` · `Node.js` · `REST APIs`
 
-**Databases**
+### 🗄️ Databases & Backend Services
 
 `MySQL` · `MongoDB` · `SQLite` · `Supabase`
 
-**Tools & Concepts**
+### 🔧 Tools & Core Concepts
 
-`Git` · `GitHub` · `OOP` · `DSA` · `DBMS` · `Debugging` · `Problem Solving`
+`Git` · `GitHub` · `VS Code` · `OOP` · `DSA` · `DBMS` · `Debugging`
 
 ---
 
@@ -56,11 +59,21 @@ I'm an MCA student at **MIT World Peace University, Pune**, interested in buildi
 
 ### 💰 Smart Expense Splitter
 
-A Django-based web application for managing group expenses and automatically calculating balances.
+A Django-based web application for managing group expenses, participants and shared balances.
 
-**Built with:** Django · Python · SQLite · Bootstrap
+**Tech:** `Python` · `Django` · `SQLite` · `REST API` · `Bootstrap`
 
 → [View Repository](https://github.com/zinzuvadiyakaushal/smart-expense-splitter)
+
+---
+
+### 🏠 Hostel OS
+
+A full-stack hostel management system built with React, TypeScript and Supabase.
+
+**Tech:** `React` · `TypeScript` · `Supabase`
+
+→ [View Repository](https://github.com/zinzuvadiyakaushal)
 
 ---
 
@@ -68,23 +81,13 @@ A Django-based web application for managing group expenses and automatically cal
 
 A machine-learning based car price prediction application with a Streamlit web interface.
 
-**Built with:** Python · Machine Learning · Streamlit
+**Tech:** `Python` · `Machine Learning` · `Streamlit`
 
 → [View Repository](https://github.com/zinzuvadiyakaushal/MIT_CAR_APP)
 
 ---
 
-### 🤖 ChatMCA
-
-A Python-based project exploring conversational application development.
-
-**Built with:** Python
-
-→ [View Repository](https://github.com/zinzuvadiyakaushal/ChatMCA)
-
----
-
-## 🏆 Achievements
+## 🏆 Achievements & Certifications
 
 - 🥇 **Smart India Hackathon (SIH) 2025** — Participated in the MIT-WPU University Internal Round and progressed to the Second Round
 - 💡 **X-FAIR Hackathon 2025** — Participated as part of a team at MIT-WPU
@@ -95,28 +98,13 @@ A Python-based project exploring conversational application development.
 
 ## 📚 Currently Learning
 
-- Advanced Full-Stack Development
-- Backend Development & REST APIs
-- Data Structures & Algorithms
-- AI/ML
-- Software Engineering Practices
-
----
-
-## 📈 GitHub Activity
-
-Building consistently through meaningful projects, experimentation, and hands-on development.
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kaushal-zinzuvadiya-081728376/">LinkedIn</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/zinzuvadiyakaushal">GitHub</a>
-</p>
-
-<p align="center">
-  <i>Building, learning, and improving — one meaningful project at a time.</i>
-</p>
+```text
+Full-Stack Development
+        ↓
+Backend & REST APIs
+        ↓
+Data Structures & Algorithms
+        ↓
+AI / Machine Learning
+        ↓
+Software Engineering Practices
