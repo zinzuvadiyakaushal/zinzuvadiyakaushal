@@ -1,38 +1,22 @@
 <!-- ========================================================= -->
 
-<!--                         HERO                               -->
+<!--                  KAUSHAL AGENT CONSOLE                     -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,45:2563EB,100:06B6D4&height=220&section=header&text=KAUSHAL%20ZINZUVADIYA&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20MCA%20%40%20MIT-WPU&descAlignY=61&descSize=18&animation=fadeIn" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=4F9DFF&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;Python+%7C+Java+Developer;React+%7C+Django+%7C+REST+APIs;AI%2FML+Enthusiast;Building+Practical+Software+Projects" alt="Typing SVG"/>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/kaushal-zinzuvadiya-081728376/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
- 
-
-<a href="https://github.com/zinzuvadiyakaushal">
-<img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,django,nodejs,mysql,mongodb,supabase&perline=10"/>
+<p>
+  <img src="./assets/hero/kaushal-agent-console.png"
+       alt="Kaushal Zinzuvadiya - Full-Stack Developer"
+       width="100%">
+</p>
 
 </div>
 
 <!-- ========================================================= -->
 
-<!--                       QUICK INTRO                          -->
+<!--                         INTRO                              -->
 
 <!-- ========================================================= -->
 
@@ -43,6 +27,18 @@
 Full-Stack Developer · Python & Java · React & Django · AI/ML Enthusiast
 
 Building practical software. Learning by building. Improving by debugging.
+
+<br>
+
+<a href="https://www.linkedin.com/in/kaushal-zinzuvadiya-081728376/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+ 
+
+<a href="https://github.com/zinzuvadiyakaushal">
+<img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </div>
 
@@ -160,31 +156,31 @@ Exploration
 
 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript">
 
 <br><br>
 
 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap">
 
 <br><br>
 
 ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=django,nodejs"/>
+<img src="https://skillicons.dev/icons?i=django,nodejs">
 
 <br><br>
 
 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,supabase"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,supabase">
 
 <br><br>
 
 🔧 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode">
 
 <br><br>
 
@@ -231,14 +227,14 @@ REST API Bootstrap HTML CSS
 <br>
 
 <a href="https://github.com/zinzuvadiyakaushal/smart-expense-splitter">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-4F46E5?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 
 <td width="32%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=python,django,sqlite,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=python,django,sqlite,bootstrap">
 
 <br><br>
 
@@ -289,7 +285,7 @@ Technology
 Python Machine Learning Streamlit
 
 <a href="https://github.com/zinzuvadiyakaushal/MIT_CAR_APP">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -309,34 +305,26 @@ Technology
 Python NLP
 
 <a href="https://github.com/zinzuvadiyakaushal/ChatMCA">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 
 <td width="50%" align="center" valign="middle">
 
-💡
-
-IDEA
+💡 IDEA
 
 ↓
 
-💻
-
-BUILD
+💻 BUILD
 
 ↓
 
-🐛
-
-DEBUG
+🐛 DEBUG
 
 ↓
 
-🚀
-
-IMPROVE
+🚀 IMPROVE
 
 </td>
 
@@ -486,9 +474,7 @@ def write_code():
 <td width="50%" align="center" valign="top">
 
 <a href="https://github.com/zinzuvadiyakaushal">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zinzuvadiyakaushal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="100%" alt="Kaushal's GitHub Statistics"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=zinzuvadiyakaushal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="100%" alt="Kaushal's GitHub Statistics">
 </a>
 
 </td>
@@ -496,9 +482,7 @@ def write_code():
 <td width="50%" align="center" valign="top">
 
 <a href="https://github.com/zinzuvadiyakaushal">
-
-<img src="https://streak-stats.demolab.com/?user=zinzuvadiyakaushal&theme=tokyonight&hide_border=true" width="100%" alt="Kaushal's GitHub Streak"/>
-
+<img src="https://streak-stats.demolab.com/?user=zinzuvadiyakaushal&theme=tokyonight&hide_border=true" width="100%" alt="Kaushal's GitHub Streak">
 </a>
 
 </td>
@@ -509,15 +493,13 @@ def write_code():
 <br>
 
 <a href="https://github.com/zinzuvadiyakaushal">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinzuvadiyakaushal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" alt="Kaushal's Top Languages"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinzuvadiyakaushal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" alt="Kaushal's Top Languages">
 </a>
 
 <br><br>
 
 <a href="https://github.com/zinzuvadiyakaushal">
-<img src="https://img.shields.io/badge/VIEW%20GITHUB%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20GITHUB%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -529,63 +511,11 @@ def write_code():
 <table width="90%">
 <tr>
 
-<td align="center" width="20%">
-
-🌐
-
-FULL-STACK
-
-Building
-Web Applications
-
-</td>
-
-<td align="center" width="20%">
-
-⚙️
-
-BACKEND
-
-Python
-Java
-REST APIs
-
-</td>
-
-<td align="center" width="20%">
-
-🗄️
-
-DATABASES
-
-SQL
-NoSQL
-Backend Data
-
-</td>
-
-<td align="center" width="20%">
-
-🧠
-
-PROBLEM SOLVING
-
-DSA
-OOP
-DBMS
-
-</td>
-
-<td align="center" width="20%">
-
-🤖
-
-AI / ML
-
-Exploring
-Intelligent Apps
-
-</td>
+<td align="center" width="20%">🌐<br><b>FULL-STACK</b><br>Building Web Applications</td>
+<td align="center" width="20%">⚙️<br><b>BACKEND</b><br>Python · Java · REST APIs</td>
+<td align="center" width="20%">🗄️<br><b>DATABASES</b><br>SQL · NoSQL · Backend Data</td>
+<td align="center" width="20%">🧠<br><b>PROBLEM SOLVING</b><br>DSA · OOP · DBMS</td>
+<td align="center" width="20%">🤖<br><b>AI / ML</b><br>Exploring Intelligent Apps</td>
 
 </tr>
 </table>
@@ -605,13 +535,13 @@ I'm always open to connecting with developers, students, recruiters, and people 
 <br><br>
 
 <a href="https://github.com/zinzuvadiyakaushal">
-<img src="https://img.shields.io/badge/GitHub-zinzuvadiyakaushal-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-zinzuvadiyakaushal-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
   
 
 <a href="https://www.linkedin.com/in/kaushal-zinzuvadiya-081728376/">
-<img src="https://img.shields.io/badge/LinkedIn-Kaushal%20Zinzuvadiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Kaushal%20Zinzuvadiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <br><br>
@@ -626,6 +556,6 @@ I'm always open to connecting with developers, students, recruiters, and people 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,45:2563EB,100:06B6D4&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,45:2563EB,100:06B6D4&height=120&section=footer" width="100%">
 
 </div>
