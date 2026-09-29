@@ -462,17 +462,17 @@ Build → Test → Debug → Learn → Improve
 <div align="center">
 
 def write_code():
-    try:
-        build_feature()
-        print("Build Successful! Works on first try!")
+try:
+build_feature()
+print("Build Successful! Works on first try!")
 
-    except Exception:
-        debug_for_hours()
+except Exception:
+    debug_for_hours()
 
-    finally:
-        question_everything(
-            "Wait... why did it work without throwing a single error?"
-        )
+finally:
+    question_everything(
+        "Wait... why did it work without throwing a single error?"
+    )
 
 </div>
 
@@ -487,7 +487,7 @@ def write_code():
 
 <a href="https://github.com/zinzuvadiyakaushal">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zinzuvadiyakaushal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="100%" alt="Kaushal's GitHub Statistics"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zinzuvadiyakaushal&theme=tokyonight" width="100%" alt="Kaushal's GitHub Statistics"/>
 
 </a>
 
@@ -510,7 +510,7 @@ def write_code():
 
 <a href="https://github.com/zinzuvadiyakaushal">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinzuvadiyakaushal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" alt="Kaushal's Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zinzuvadiyakaushal&theme=tokyonight" width="50%" alt="Kaushal's Top Languages"/>
 
 </a>
 
