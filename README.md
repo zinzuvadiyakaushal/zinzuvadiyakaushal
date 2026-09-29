@@ -1,110 +1,274 @@
-<h1 align="center">Hi 👋, I'm Kaushal Zinzuvadiya</h1>
+<div align="center">
 
-<p align="center">
-  <strong>MCA Student @ MIT-WPU · Full-Stack Developer · Python & Java · AI/ML Enthusiast</strong>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=190&section=header&text=Kaushal%20Zinzuvadiya&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MCA%20%40%20MIT-WPU&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+
+# 👋 Hey, I'm Kaushal
+
+### `Full-Stack Developer` · `Python & Java` · `React & Django` · `AI/ML Enthusiast`
+
+<p>
+  I build practical software projects, explore modern technologies,<br/>
+  and continuously improve through hands-on development.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kaushal-zinzuvadiya-081728376/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/zinzuvadiyakaushal">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+<br/>
+
+<a href="https://www.linkedin.com/in/kaushal-zinzuvadiya-081728376/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/zinzuvadiyakaushal">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,django,nodejs,mysql,mongodb,supabase&perline=10"/>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm an MCA student at **MIT World Peace University, Pune**, focused on building practical software and strengthening my skills through hands-on development.
+I'm an **MCA student at MIT World Peace University, Pune**, interested in building practical software and solving real-world problems through technology.
 
-- 🎓 Pursuing **Master of Computer Applications (MCA)** at MIT-WPU
-- 💻 Interested in **Full-Stack Development & Software Engineering**
-- 🐍 Working with **Python, Django and REST APIs**
-- ☕ Working with **Java and core software development concepts**
-- ⚛️ Building applications with **React and TypeScript**
-- 🗄️ Working with **MySQL, MongoDB, SQLite and Supabase**
-- 🤖 Exploring **AI/ML and intelligent software applications**
-- 🧠 Practicing **Data Structures, Algorithms and problem solving**
-- 🚀 Learning through projects, experimentation and continuous development
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🎓 **MCA Student**  
+MIT World Peace University, Pune
+
+💻 **Development**  
+Full-Stack & Backend Development
+
+🐍 **Languages**  
+Python · Java · JavaScript · TypeScript
+
+</td>
+
+<td width="50%" valign="top">
+
+🌐 **Web Technologies**  
+React · Django · Node.js · REST APIs
+
+🗄️ **Data**  
+MySQL · MongoDB · SQLite · Supabase
+
+🤖 **Exploring**  
+AI/ML & intelligent applications
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Tech Stack
+## ⚡ What I Build
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+## 🌐
+
+### Full-Stack Applications
+
+Building practical web applications across frontend, backend and database layers.
+
+</td>
+
+<td width="33%" align="center">
+
+## ⚙️
+
+### Backend Systems
+
+Working with APIs, authentication, databases and server-side application logic.
+
+</td>
+
+<td width="33%" align="center">
+
+## 🤖
+
+### AI / ML
+
+Exploring machine learning and intelligent applications through hands-on projects.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
 
 ### 💻 Languages
 
-`Java` · `Python` · `JavaScript` · `TypeScript`
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript"/>
+
+<br/><br/>
 
 ### 🎨 Frontend
 
-`HTML` · `CSS` · `React` · `Bootstrap`
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap"/>
+
+<br/><br/>
 
 ### ⚙️ Backend
 
-`Django` · `Node.js` · `REST APIs`
+<img src="https://skillicons.dev/icons?i=django,nodejs"/>
 
-### 🗄️ Databases & Backend Services
+<br/><br/>
 
-`MySQL` · `MongoDB` · `SQLite` · `Supabase`
+### 🗄️ Databases & Services
 
-### 🔧 Tools & Core Concepts
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,supabase"/>
 
-`Git` · `GitHub` · `VS Code` · `OOP` · `DSA` · `DBMS` · `Debugging`
+<br/><br/>
 
----
+### 🔧 Tools
 
-## 🚀 Featured Projects
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
-### 💰 Smart Expense Splitter
+</div>
 
-A Django-based web application for managing group expenses, participants and shared balances.
+<br/>
 
-**Tech:** `Python` · `Django` · `SQLite` · `REST API` · `Bootstrap`
+<div align="center">
 
-→ [View Repository](https://github.com/zinzuvadiyakaushal/smart-expense-splitter)
+`OOP` · `DSA` · `DBMS` · `REST APIs` · `Debugging` · `Problem Solving`
 
----
-
-### 🏠 Hostel OS
-
-A full-stack hostel management system built with React, TypeScript and Supabase.
-
-**Tech:** `React` · `TypeScript` · `Supabase`
-
-→ [View Repository](https://github.com/zinzuvadiyakaushal)
+</div>
 
 ---
 
-### 🚗 MIT Car App
+# 🚀 Featured Projects
 
-A machine-learning based car price prediction application with a Streamlit web interface.
+<table>
+<tr>
 
-**Tech:** `Python` · `Machine Learning` · `Streamlit`
+<td width="50%" valign="top">
 
-→ [View Repository](https://github.com/zinzuvadiyakaushal/MIT_CAR_APP)
+<h3>💰 Smart Expense Splitter</h3>
+
+<p>
+A Django-based web application for managing group expenses,
+participants and shared balances.
+</p>
+
+<p><b>Tech Stack</b></p>
+
+`Python` `Django` `SQLite`  
+`REST API` `Bootstrap`
+
+<br/><br/>
+
+<a href="https://github.com/zinzuvadiyakaushal/smart-expense-splitter">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🏠 Hostel OS</h3>
+
+<p>
+A full-stack hostel management project currently being developed
+using React, TypeScript and Supabase.
+</p>
+
+<p><b>Tech Stack</b></p>
+
+`React` `TypeScript`  
+`Supabase`
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-In%20Development-F59E0B?style=for-the-badge"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🚗 MIT Car App</h3>
+
+<p>
+A machine-learning based car price prediction application
+with a Streamlit web interface.
+</p>
+
+<p><b>Tech Stack</b></p>
+
+`Python` `Machine Learning`  
+`Streamlit`
+
+<br/><br/>
+
+<a href="https://github.com/zinzuvadiyakaushal/MIT_CAR_APP">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🤖 ChatMCA</h3>
+
+<p>
+A Python-based project exploring conversational
+application development.
+</p>
+
+<p><b>Tech Stack</b></p>
+
+`Python`
+
+<br/><br/>
+
+<a href="https://github.com/zinzuvadiyakaushal/ChatMCA">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🧠 How I Build
 
-- 🥇 **Smart India Hackathon (SIH) 2025** — Participated in the MIT-WPU University Internal Round and progressed to the Second Round
-- 💡 **X-FAIR Hackathon 2025** — Participated as part of a team at MIT-WPU
-- 📄 Co-authored an academic research paper on **Social Media Usage and Student Productivity**
-- 🌐 Completed **Networking Basics** through Cisco Networking Academy
-
----
-
-## 📚 Currently Learning
+<div align="center">
 
 ```text
-Full-Stack Development
-        ↓
-Backend & REST APIs
-        ↓
-Data Structures & Algorithms
-        ↓
-AI / Machine Learning
-        ↓
-Software Engineering Practices
+              💡 IDEA
+                 │
+                 ▼
+          🔍 UNDERSTAND
+                 │
+                 ▼
+             🏗️ DESIGN
+                 │
+                 ▼
+              💻 BUILD
+                 │
+                 ▼
+          🧪 TEST & DEBUG
+                 │
+                 ▼
+            🔧 IMPROVE
+                 │
+                 ▼
+             🚀 ITERATE
